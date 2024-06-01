@@ -1,0 +1,14 @@
+Quality of training dataset will depend on the accuracy and accuracy of manual classification - some 
+checks will have to be carried out to ensure the quality of the dataset.
+
+Currently IRIS requires either a complicated Docker installation, or cloning the GitHub repo.
+This would need to be made more accessible for 'lay-people' to be involved.
+
+Need some sort of shared submission/upload space for contributing classified masks. Needs to have a 
+form or something for details about the mask, like coords, date/time etc.
+
+Or have a selection of images which can be downloaded and processed. As long as file names are
+kept the same, records can be kept about coords, date/time etc.
+
+Images can be classified multiple times - taking the average improves classifications. Some
+method for finding a binary average would need to be worked out.
