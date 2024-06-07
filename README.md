@@ -7,3 +7,5 @@ This ahs the potential to be turned into a project with which others may be able
 This project begins the process of prototyping a method for accomplishing this and lists some considerations for making this viable. It specifically aims to answer the questions of how seperate images and masks may be combined into a larger training dataset, and if the model trained on this dataset performs better than models trained on datasets from individual images and masks.
 
 Three sample satellite images from OLCI (below) are used to test this. Masks are created using IRIS and used to build a combined training dataset, used to train a CNN (also below).
+![OLCI](https://github.com/rhtweedie/iris_for_citizen_science/assets/98949549/9646ec7d-99e2-41e5-843c-fb6cde938360)
+![CNNs](https://github.com/rhtweedie/iris_for_citizen_science/assets/98949549/32f9956f-1dea-4526-8bf8-c1a45c1b79a0)
